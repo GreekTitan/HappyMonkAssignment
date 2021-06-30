@@ -1,0 +1,10 @@
+All the packages required to run the program are in "requirements.txt"
+
+Use the following commands to create your environment
+# using pip
+pip install -r requirements.txt
+
+# using Conda
+conda create --name <env_name> --file requirements.txt
+
+It is recommended to run to Jupyter Notebook "Assignment.ipynb" in Jupyter Lab
